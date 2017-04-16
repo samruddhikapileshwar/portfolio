@@ -1,0 +1,46 @@
+
+
+@media screen and (max-width: 1628px) and (min-width: 801px) {
+    .demo{
+		color: blue;
+	}
+}
+
+
+@media screen and (max-width: 801px) and (min-width: 480px) {
+    .demo{
+		color: pink;
+	}
+}
+
+
+@media screen and (max-width: 480px) and (min-width: 320px) {
+    .demo{
+		color: orange;
+	}
+}
+
+.form{
+	text-align: center;
+}
+
+.container {
+    padding: 16px;
+}
+
+.loginbtn{
+	background-color: green;
+}
+
+.email{
+	margin-right: 153px;
+}
+
+.password{
+	margin-right: 132px;
+	margin-top: 14px;
+}
+
+.btn{
+	    margin-top: 20px;
+}
